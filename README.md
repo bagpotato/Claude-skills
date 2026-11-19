@@ -46,11 +46,7 @@ To prevent conflicts between each package's `plugin.json` file, both are placed 
 
 1. Clone or download this repository to your machine:
    ```bash
-   git clone [https://github.com/bagpotato/Claude-skill-s.git](https://github.com/bagpotato/Claude-skill-s.git)
+   git clone [https://github.com/bagpotato/Claude-skill-s.git](https://github.com/bagpotato/Claude-skills.git)
    ```
 2. Copy the folder you need (`scripting` or `antiscrap`) into your target environment's skills or plugins directory following the instructions in its `SKILL.md`.
 3. Keep the `.claude-plugin/plugin.json` and `skills/.../SKILL.md` paths intact.
-
-## License
-
-[Specify your license here, e.g., MIT, or note if this is for internal/private use]
