@@ -1,0 +1,1 @@
+{"name": "antiscrap", "description": "Harden a web project you own against scraping and AI cloning: AI-bot blocking, defensive honeypot/tarpit, production-only obfuscation with no source maps, repo/endpoint lockdown, and a secret review across every file (code, text, docs, slides). Use before deploy."}
