@@ -35,12 +35,12 @@ To prevent conflicts between each package's `plugin.json` file, both are placed 
 ### 1. Scripting (`scripting`)
 * **Source:** `scripting-v1.zip`
 * **Key Files:** `.claude-plugin/plugin.json` and `skills/scripting/SKILL.md`
-* **Description:** [Add a brief summary of what the scripting skill does, when to use it, and any key guidelines]
+* **Description:** Harden a web project you own against scraping and AI cloning: AI-bot blocking, defensive honeypot/tarpit, production-only obfuscation with no source maps, repo/endpoint lockdown, and a secret review across every file (code, text, docs, slides). Use before deploy.
 
 ### 2. Antiscrap (`antiscrap`)
 * **Source:** `Antiscrap-v1.zip`
 * **Key Files:** `.claude-plugin/plugin.json` and `skills/antiscrap/SKILL.md`
-* **Description:** [Add a brief summary of what the antiscrap skill does, when to use it, and any key guidelines]
+* **Description:** Use this skill whenever the user wants to write, generate, fix, or improve a script in Bash/Shell, Python, or JavaScript/Node.js.
 
 ## Installation & Usage
 
